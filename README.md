@@ -2,9 +2,13 @@
 ```bash
 cd auto-install-docker
 ```
+2. Bikin executable:
+```bash
+chmod +x install-docker.sh
+```
 
-2. Jalankan script
+4. Jalankan script
 ```bash
 ./install-docker.sh
 ```
-3. DONE
+4. DONE
