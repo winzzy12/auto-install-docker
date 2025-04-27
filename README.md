@@ -11,4 +11,4 @@ chmod +x install-docker.sh
 ```bash
 ./install-docker.sh
 ```
-4. DONE
+5. DONE
