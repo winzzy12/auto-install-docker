@@ -1,6 +1,8 @@
-1. Masuk ke Folder Direktori
+1. Jalankan Script
 ```bash
 cd auto-install-docker
+chmod +x install-docker.sh
+./install-docker.sh
 ```
 2. Bikin executable:
 ```bash
